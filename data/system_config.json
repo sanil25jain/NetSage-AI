@@ -1,0 +1,8 @@
+{
+    "model": "openai/gpt-oss-20b",
+    "confidence_threshold": 0.80,
+    "max_retries": 3,
+    "deployment_mode": "simulation",
+    "verification_enabled": true,
+    "audit_logging_enabled": true
+}

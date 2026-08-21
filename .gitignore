@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Generated evaluation
+data/model_evaluation.csv
